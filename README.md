@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sujan33523346" target="blank"><img src="https://img.shields.io/twitter/follow/sujan33523346?logo=twitter&style=for-the-badge" alt="sujan33523346" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJs, ReactJs**
+- 🌱 I’m currently learning **NodeJs, ReactJs, Python**
 
 - 📫 How to reach me **pradhansujan730@gmail.com**
 
